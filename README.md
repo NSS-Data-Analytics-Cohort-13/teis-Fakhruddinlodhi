@@ -31,3 +31,84 @@ In addition, there are a few additional documents for reference:
 * BDI scoring resource.docx: Provides an explanation of scores on the BDI-3
 * BDI3_ScoreReport Sample.pdf: A sample of BDI-3 Score Report used for training
 * TEIS Acronyms and Terms.pdf: A resource document providing abbreviations commonly found in TEIS
+
+Shannon Pargin - Director
+we offer therapy which starts from birth
+part c individual sec act (ends at 3)
+	extended service after age 3
+		starts at school (if qualified)
+			if they leave they can't come back 
+			ends at age 5
+development therapy might be done at home 
+iffp = families
+
+Measuring child
+idea - we don't use
+	reporting outcome = no
+requeried reporting after exit (at least 6 months of use)
+	children in extended program might be in report twice (if registered on different year - based on 3-5 program)
+
+Progress categories are required
+a b c d e 
+
+summary statements (reports) are required
+1 and 2
+
+kids with BDI what if we change from standard deviations to different type formula
+
+talk to APS with BDI
+
+scoring
+mastered = 3 
+emerging = 2
+future = 0
+
+3 fails = stop
+if 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
